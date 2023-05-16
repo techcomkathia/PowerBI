@@ -1,0 +1,9 @@
+Transformar dados
+Filtrar só arquivo que queremos
+transformar dados
+deletar colunas que não queremos
+promover cabeçalhos
+excluir etapa de alterar tipo
+excluir cabeçalhos de cada aba (filtrar diferente de 'área' por ex)
+Fechar e aplicar
+Mostrar o que acontece quando adiciona algum valor na tabela e atualiza (já puxa automaticamente)
